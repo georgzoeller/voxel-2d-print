@@ -19,6 +19,6 @@
     "voxel-critter": "~0.1.1",
     "color": "~0.4.4",
     "contour-2d": "^1.0.0",
-    "save-pixels": "^1.0.0"
+    "save-pixels": "^2.3.4"
   }
 }
